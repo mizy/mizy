@@ -6,6 +6,7 @@ You can check out my latest project MiniGL.dragonBones by clicking on the link b
 [MiniGL.dragonBones](https://mizy.github.io/MiniGL/demo/dragonBones/eyetrack.html)
 
 Make sure to check out my Github page for more exciting projects and updates. Additionally, you can take a look at the latest languages that I'm working on by clicking on the below link:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizy&theme=radical)](https://github.com/mizy/mizy)
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizy&theme=radical)](https://github.com/mizy/mizy)
 
 Thank you for visiting my page!
