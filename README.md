@@ -7,6 +7,10 @@ You can check out my latest project MiniGL.dragonBones by clicking on the link b
 
 Make sure to check out my Github page for more exciting projects and updates. Additionally, you can take a look at the latest languages that I'm working on by clicking on the below link:
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mizy&theme=radical)](https://github.com/mizy/mizy)
 
+<div style="display:grid;grid-template-columns: 1fr 1fr 1fr;">
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizy&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizy&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizy&theme=react)
+</div>
 Thank you for visiting my page!
