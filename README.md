@@ -5,7 +5,6 @@ I'm a passionate programmer with expertise in webGL rendering! I've recently dev
 You can check out my latest project MiniGL.dragonBones by clicking on the link below:
 [MiniGL.dragonBones](https://mizy.github.io/MiniGL/demo/dragonBones/eyetrack.html)
 
-Make sure to check out my Github page for more exciting projects and updates. Additionally, you can take a look at the latest languages that I'm working on by clicking on the below link:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizy&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizy&theme=react)
