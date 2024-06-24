@@ -7,8 +7,8 @@ You can check out my latest project MiniGL.dragonBones by clicking on the link b
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizy&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizy&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mizy&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mizy&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mizy&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mizy&theme=react&utcOffset=8)
 
